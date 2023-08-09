@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nikhil Pathania</h1>
+![image](https://github.com/NikhilPathaniaa/NikhilPathaniaa/assets/132260288/3386a82f-1dc1-4a3c-8c64-284adad7a97f)<h1 align="center">Hi 👋, I'm Nikhil Pathania</h1>
 <h3 align="center">🌐 Front-end Enthusiast | Exploring React.js ✨ | Coding and Learning 🚀</h3>
+
+<img align="right" alt="coding" width="400" src="![image](https://github.com/NikhilPathaniaa/NikhilPathaniaa/assets/132260288/ad77b83b-0db8-475f-9b45-30f1f092eaa6)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpathaniaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpathaniaa" /> </p>
 
