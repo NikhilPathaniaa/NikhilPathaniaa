@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpathaniaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpathaniaa" /> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, REACTJS, BOOTSTRAP, TAILWIND**
-
+ 
 - 📫 How to reach me **nikhilpathania1990@gmail.com**
 
 - ⚡ Fun fact **Coding with a Cosmic Beat 🌌🎵**
