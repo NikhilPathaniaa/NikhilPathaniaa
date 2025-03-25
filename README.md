@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **REACTJS, SPRING BOOT**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nikhil.onrender.com/](https://portfolio-nikhil.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://nikhilx.vercel.app/](https://nikhilx.vercel.app/)
 
 - 💬 Ask me about **react, spring boot, MySQL, java**
 
